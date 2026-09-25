@@ -1,0 +1,6 @@
+{
+  "name": "Bauhaus Knowledge & Dashboard Canvas",
+  "description": "Neo-brutalist knowledge workspace and dashboard featuring 10 interactive knowledge cards, analytics charts, user profile widgets, Zustand state management, and GenAI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
